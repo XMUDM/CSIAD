@@ -7,8 +7,8 @@ A novel framework for logical image fraud detection using cross-sample reasoning
 ## 🔗 Quick Links
 
 - 🏠 [**Project Homepage**](https://XMUDM.github.io/CSIAD/)
-- 📄 [**Paper (ACL 2025)**](coming soon)
-- 📊 [**Benchmark-CrossCred**](coming soon)
+- 📄 [**Paper (ACL 2025)**](https://aclanthology.org/2025.acl-long.687/)
+- 📊 [**Benchmark-CrossCred**](https://drive.google.com/file/d/1seJd_9_N4GCdn34kRUHi7cFlOgKxcdU-/view)
 <!-- - 🎥 [**Demo Video**](coming soon) -->
 
 ---
